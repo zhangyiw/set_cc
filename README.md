@@ -71,7 +71,7 @@ set_cc_win.bat kimi
 --------
 ```
 cc_starter/
-├── README.txt          # 项目说明文档
+├── README.md           # 项目说明文档
 ├── set_cc_mac.sh       # macOS切换脚本
 ├── set_cc_linux.sh     # Linux切换脚本
 └── set_cc_win.bat      # Windows切换脚本
